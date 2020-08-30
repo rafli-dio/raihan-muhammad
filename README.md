@@ -9,8 +9,8 @@ I am Raihan, love teaching, coding and something new
 
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=raihan-muhammad&theme=dark&show_icons=true)](https://github.com/riyhs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-muhammad&hide=TeX&layout=compact&theme=dark)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=raihan-muhammad&theme=light&show_icons=true)](https://github.com/riyhs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-muhammad&hide=TeX&layout=compact&theme=light)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raihan-muhammad.raihan-muhammad)
 
