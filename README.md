@@ -1,6 +1,6 @@
 ![top.png](https://i.loli.net/2020/08/18/C78XfFH9qZs4aUL.png)
 
-### Hi there 👋
+### <h1 style="position: relative; top: 0; text-align:center">Hi there 👋</h1>
 
 I am Raihan, love teaching, coding and something new
 
